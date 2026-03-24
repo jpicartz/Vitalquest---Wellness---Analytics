@@ -31,3 +31,7 @@ intensity, recovery, and micronutrient scores.
 | [VitalQuest_Performance_Dataset_90_Days.csv](VitalQuest_Performance_Dataset_90_Days.csv) | 90-day synthetic wellness dataset |
 | [vitalquest_analysis.py](vitalquest_analysis.py) | Python correlation & regression script |
 | [VitalQuest_Python_Analysis.png](VitalQuest_Python_Analysis.png) | Output chart — correlation matrix + regressions |
+
+## Python Analysis Output
+![Analysis Output](VitalQuest_Python_Analysis.png)
+
